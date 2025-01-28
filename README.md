@@ -8,10 +8,10 @@ I'm a passionate developer who loves building things that make a difference. Whe
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on innovative projects that challenge the status quo
-- 🌱 Always learning and growing in the tech world
-- 👯 Looking to collaborate on impactful open source projects
-- 💬 Ask me about software architecture, best practices, and building scalable solutions
+- 🔭 Currently Building: A decentralized web crawling and knowledge graph pipeline called Decentralize-The-Internet.
+- 🌱 Always Learning: Exploring next-gen architectures for distributed systems, HPC, and quantum-ready AI.
+- 👯 Open to Collaborate: Excited to work on advanced crawling, knowledge graph, or HPC/quantum-based projects that push technology boundaries.
+- 💬 Ask me about Prompt engineering & best practices, Building scalable knowledge pipelines, Handling big data with HPC and quantum acceleration
 - ⚡ Fun fact: I believe AI can solve all problems that require knowledge to solve.
 
 ## 🛠️ Technical Stack
