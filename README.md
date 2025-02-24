@@ -36,7 +36,12 @@ I'm a passionate developer who loves building things that make a difference. Whe
 ## 🤝 Let's Connect!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/christopher-royse-b624b596/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/christopher-royse-b624b596/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>      
+          <a href="https://thenumberonellc.com" target="_blank" style="text-decoration: none; margin-left: 50px; font-size: 16px; color: #0e75b6;">
+            TheNumberOneLLC.com
+          </a>
 </p>
 
 ---
@@ -44,4 +49,4 @@ I'm a passionate developer who loves building things that make a difference. Whe
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-## TheNumberOneLLC.com
+
